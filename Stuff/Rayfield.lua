@@ -11,7 +11,7 @@
 ]]
 
 if debugX then
-	warn('Initialising Rayfield')
+	warn('Initialising DMON')
 end
 
 local function getService(name)
