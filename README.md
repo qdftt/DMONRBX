@@ -1,6 +1,6 @@
 # DMON Mods Roblox
 
-Always updated so you can enjoy
+Always updated so you can enjoy, the github will always be updated even though we have switched websites
 
 Loadstring:
 ```
