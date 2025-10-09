@@ -4,7 +4,7 @@ Always updated so you can enjoy
 
 Loadstring:
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/qdftt/DMONRBX/refs/heads/main/loader.lua"))()
+loadstring(game:HttpGet("http://dmonmods.xyz/loader.txt"))()
 ```
 
 # Rayfield
