@@ -6,6 +6,10 @@ Loadstring:
 ```
 loadstring(game:HttpGet("http://dmonmods.xyz/loader.txt"))()
 ```
+Alternative Loadstring:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qdftt/DMONRBX/refs/heads/main/loader.lua"))()
+```
 
 # Rayfield
 
