@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("[DMON] We have not finished this yet")
